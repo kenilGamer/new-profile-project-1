@@ -35,7 +35,7 @@ h1 {
       -webkit-mask-position: center;
       -webkit-mask-image: var(--mask-image);
       -webkit-mask-composite: var(--mask-composite-webkit);
-      -webkit-mask-size: var(--mask-size);
+      /* -webkit-mask-size: var(--mask-size); */
       
       mask-repeat: no-repeat;
       mask-position: center;
